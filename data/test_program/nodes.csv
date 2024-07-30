@@ -1,6 +1,6 @@
 Id:ID¿Type¿Kind¿Code¿Range¿Location¿Value¿Raw¿Async¿Label:LABEL¿SemanticType
 26¿exit¿¿¿¿¿¿¿¿ASTNode¿
-1¿Program¿js¿¿[826,951]¿{start:{line:24,column:0},end:{line:27,column:24}}¿/Users/soheilkhodayari/Desktop/projects/WPGRelease/thething-jaw-v2/data/test_program/test.js¿¿¿ASTNode¿
+1¿Program¿js¿¿[826,951]¿{start:{line:24,column:0},end:{line:27,column:24}}¿/Users/kendrick/Documents/SS2024/Projektarbeit_am_IAS/My_JAW_Fork/JAW/data/test_program/test.js¿¿¿ASTNode¿
 2¿VariableDeclaration¿var¿¿[826,858]¿{start:{line:24,column:0},end:{line:24,column:32}}¿¿¿¿ASTNode;CFGNode¿
 3¿VariableDeclarator¿¿=¿[830,857]¿{start:{line:24,column:4},end:{line:24,column:31}}¿¿¿¿ASTNode¿
 4¿Identifier¿¿path¿[830,834]¿{start:{line:24,column:4},end:{line:24,column:8}}¿¿¿¿ASTNode¿

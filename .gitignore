@@ -89,3 +89,4 @@ engine/lib/jaw/aliasing/aliasing.o
 
 # venv
 venv
+.venv
